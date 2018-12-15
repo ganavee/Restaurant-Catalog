@@ -1,0 +1,27 @@
+h1 {
+  color: #FFA686;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+}
+.jumbotron {
+	margin-top: 0;
+	background-color: #FEE2CF;
+	width: 100%;
+}
+/*.categorydiv{
+	position: relative;
+}*/
+.list-group {
+	width: 25%;
+	margin: auto;
+	/*position: absolute;
+	left: 50%;
+	right: -50%;*/
+}
+h6 {
+	/*color: #634740;*/
+	color: white;
+}
+img {
+	margin-left: 100px;
+}
